@@ -1,0 +1,27 @@
+
+
+
+
+  body {
+    font-family: sans-serif;
+    background-color: rgb(120,0,120);
+    margin: 0;
+
+  }
+  img {
+    max-width: 100%;
+    border-width: 3em;
+    border-style: ridge;
+    border-color: lightgray;
+    margin: 0 25%; 
+
+  }
+  .red {
+    color: red;
+  }
+   div { 
+    text-align: center; 
+      }
+   
+
+
